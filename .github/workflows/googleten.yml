@@ -1,7 +1,7 @@
 name: winten
 on:
   schedule:
-    - cron: '26 23 * * *' # 
+    - cron: '56 5 * * *' # 
 jobs:
   build:
 
